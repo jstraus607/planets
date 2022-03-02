@@ -1,0 +1,42 @@
+body {
+  background-image: url("background.jpg");
+  color: #FFFFFF;
+  font-family: sans-serif;
+}
+
+.header {
+  background: #003838;
+  opacity: 0.8;
+}
+
+.header h1 {
+  color: yellow;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 3em;
+}
+
+.planets {
+  background: #001E1E;
+  opacity: 50%;
+}
+
+h2 {
+  font-family: "Arial";
+  font-weight: bold;
+  font-style: italic;
+  color: #FF790A;
+  font-size: 6em;
+  text-transform: uppercase;
+  margin-bottom:0;
+}
+
+p {
+  font-style: bold;
+}
+
+a:hover {
+  color: #FFF924;
+  font-weight: bold;
+  text-decoration: underline;
+}
